@@ -8,6 +8,9 @@ This is mostly for my use but if anyone wants to use it, feel free.
 
 ### Position of chains and CDR regions
 
+All antibodies here (for both structure and sequence) are numbered using IMGT. For structures (stored as numpy array), the padding is Nan values. For sequences it is "-".
+Here are the positions of each region:
+
 
 Heavy chain: [:133]
 
