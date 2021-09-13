@@ -1,4 +1,4 @@
-# H3Data
+# Antibody Data
 
 Position of the BB atoms for most antibody Fvs in the pdb. 
 
